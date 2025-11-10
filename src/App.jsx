@@ -1,0 +1,1 @@
+// App.jsx contents replaced in the previous step of project definition.\n
